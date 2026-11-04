@@ -26,7 +26,7 @@ pip install -r requirements.txt
 Run the program from the project's folder
 
 ```
-python ksm_county_schoolsdata.py
+python ksm_county_schools_data.py
 ```
 
 
