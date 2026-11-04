@@ -13,6 +13,10 @@ Calculates the correlation of the schools infrustructure and class attendance da
 - Calculates the correlation of class attendance vs shool infrustructure
 - Plots the scatter plot for visual representation 
 
+## Correlation Findings
+
+A correlation value of -0.00 indicates that school attendance is not affected by the school's infrusttruicture.
+
 
 ## Setup
 
