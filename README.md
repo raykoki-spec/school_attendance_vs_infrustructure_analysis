@@ -15,7 +15,7 @@ Calculates the correlation of the schools infrustructure and class attendance da
 
 ## Correlation Findings
 
-A correlation value of -0.00 indicates that school attendance is not affected by the school's infrusttruicture.
+A correlation value of -0.00 indicates that school attendance is not affected by the school's infrustructure.
 
 
 ## Setup
